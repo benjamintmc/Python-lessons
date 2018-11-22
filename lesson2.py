@@ -1,0 +1,5 @@
+name = input('What is your name: ')
+print('Hello!', name)
+height = input('How tall are you: ')
+weight = input('How much do you weigh: ')
+print(height, 'cm', weight, 'kg')
